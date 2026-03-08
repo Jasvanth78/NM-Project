@@ -27,7 +27,7 @@ This project focuses on identifying web application vulnerabilities and understa
 |-----|------|-------|-------|
 | 1 | Jasvanth S (2322J1078) | Bharathidasan College of Arts and Science, Ellispettai | mailtojasvanth88@gmail.com |
 | 2 | Dinesh Babu S (2322J1073) | Bharathidasan College of Arts and Science, Ellispettai | kb907007@gmail.com |
-| 3 | Vignesh N (2322J1074) | Bharathidasan College of Arts and Science, Ellispettai | vishnu079384@gmail.com |
+| 3 | Vignesh N (2322J1084) | Bharathidasan College of Arts and Science, Ellispettai | vishnu079384@gmail.com |
 | 4 | Mythreyan V (2322J1082) | Bharathidasan College of Arts and Science, Ellispettai | myth8349@gmail.com |
 | 5 | Gopinath M (2322J1076) | Bharathidasan College of Arts and Science, Ellispettai | vichu6376@gmail.com |
 
